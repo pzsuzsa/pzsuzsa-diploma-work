@@ -1,1 +1,2 @@
 I would like to know how to create automatic tests which can be run on lottery terminals.
+That's why I enrolled for this course.
